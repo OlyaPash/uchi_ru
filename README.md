@@ -1,9 +1,12 @@
+# Так задумано, что файл .env доступен  
+
 # UCHIRU API
 Uchi_ru - проект с API реализацией  
 Rails 8.0.2, Postgresql, Docker
 
 # Как запустить
-Запустить проект локально: docker compose up
+Запустить проект локально: docker compose up  
+(При необходимости: CTRL+C, docker compose down и повторно запустить docker compose up)
 
 # Запросы через Postman
 * POST /students - Регистрация нового студента (в заголовках ответа появится x-auth-token и значение)
