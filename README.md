@@ -1,5 +1,5 @@
 # UCHIRU API
-Uchi_ru - проект с API реализацией
+Uchi_ru - проект с API реализацией  
 Rails 8.0.2, Postgresql, Docker
 
 # Как запустить
