@@ -11,7 +11,7 @@ Student.create!(
   first_name: "Вячеслав",
   last_name: "Абдурахмангаджиевич",
   surname: "Мухобойников-Сыркин",
-  classroom_id: classroom1б.id,
+  classroom_id: classroom.id,
   school_id: school.id
 )
 
@@ -19,7 +19,7 @@ Student.create!(
 #   first_name: "Милана",
 #   last_name: "Вениаминовна",
 #   surname: "Гусева",
-#   classroom_id: classroom1б.id,
+#   classroom_id: classroom.id,
 #   school_id: school.id
 # )
 
